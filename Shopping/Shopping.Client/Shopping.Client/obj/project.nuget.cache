@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R+370qBw3yue5/DmternPvwFJUwihhvNifCiMaoFPWvmG2/vTQudfDhSPcLb6ZN3phtKqAmI5+TK9dg7ludUIw==",
+  "success": true,
+  "projectFilePath": "C:\\Course Work\\Study\\.NET Microservices with AKS - Mohemed\\run-devops-nag\\Shopping\\Shopping.Client\\Shopping.Client\\Shopping.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nudupa\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
